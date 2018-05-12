@@ -1,6 +1,6 @@
 # Intro to Deep Learning Using PyTorch
 
-Welcome to an introduction to PyTorch hosted by [Expero](https://experoinc.com) [Agile](https://agilescientific.com)!
+Welcome to an introduction to PyTorch hosted by [Expero](https://experoinc.com) and [Agile](https://agilescientific.com)!
 
 Your instructor today is [Graham Ganssle](https://www.linkedin.com/in/grahamganssle/). Please don't hesitate to get up and scribble a question on the whiteboard!
 
