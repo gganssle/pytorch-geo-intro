@@ -16,12 +16,6 @@ Your instructor today is [Graham Ganssle](https://www.linkedin.com/in/grahamgans
 
 * [TensorboardX](https://github.com/lanpa/tensorboard-pytorch)
 
-And optionally:
-
-* [Bokeh](https://bokeh.pydata.org/en/latest/docs/installation.html)
-
-* [tqdm](https://github.com/tqdm/tqdm#installation)
-
 ---
 
 ### Syllabus
