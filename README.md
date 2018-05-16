@@ -10,11 +10,19 @@ Your instructor today is [Graham Ganssle](https://www.linkedin.com/in/grahamgans
 
 **Before you begin,** you should have the following installed:
 
-* [PyTorch](https://github.com/pytorch/pytorch/blob/master/README.md#installation) (CPU or GPU flavor, depending on your hardware)
-
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 
-* [TensorboardX](https://github.com/lanpa/tensorboard-pytorch)
+* [PyTorch](https://pytorch.org/) (CPU or GPU flavor, depending on your hardware)
+
+* [scikit-learn](http://scikit-learn.org/stable/install.html)
+
+And, optionally:
+
+* [TensorboardX](https://github.com/lanpa/tensorboard-pytorch#install)
+
+* [bokeh](https://bokeh.pydata.org/en/latest/docs/installation.html)
+
+* [tqdm](https://github.com/tqdm/tqdm#installation)
 
 ---
 
@@ -29,3 +37,22 @@ When you leave today you should know how to build and train simple PyTorch model
 3. Optimization - how to use tensors (**1.**) and gradients (**2.**) to find function extrema.
 
 4. Neural networks (regression) - we'll train a neural network to approximate a continuous, differentiable function.
+
+5. Neural networks (classification) - we'll train a neural network to tell us a rock type based on the chemical composition of a sample.
+
+---
+
+### Run order
+
+This repo contains a TON of code. We'll run things in the following order:
+1. `nb/1.0-Tensors-Gradients-Optimization.ipynb`
+2. `nb/2.0-Simple-Neural-Network.ipynb`
+3. `dat/scrape.sh`
+4. `dat/data_prep.ipynb`
+5. `nb/3.0-Simple-Neural-Network_realData.ipynb`
+
+---
+
+### Thanks!
+
+The data we've used in this repo comes from [GEOROC](http://georoc.mpch-mainz.gwdg.de/georoc/).
