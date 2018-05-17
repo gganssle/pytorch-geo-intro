@@ -14,8 +14,6 @@ Your instructor today is [Graham Ganssle](https://www.linkedin.com/in/grahamgans
 
 * [PyTorch](https://pytorch.org/) (CPU or GPU flavor, depending on your hardware)
 
-* [scikit-learn](http://scikit-learn.org/stable/install.html)
-
 And, optionally:
 
 * [TensorboardX](https://github.com/lanpa/tensorboard-pytorch#install)
